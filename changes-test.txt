@@ -1,0 +1,1 @@
+when i have done code commite then it have to run the job automatically
